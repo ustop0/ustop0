@@ -18,6 +18,7 @@
 <h2>Technologies and Skills</h2>
 I have knowledge of software engineering techniques and experience, at different levels, in a series of technologies acquired in academic, personal and work projects.
 
+[comment]: <https://github.com/Ileriayo/markdown-badges> 
 <br>
 <h3>1. OS</h3>
 <br>
@@ -39,18 +40,19 @@ I have knowledge of software engineering techniques and experience, at different
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 [![Generic badge](https://img.shields.io/badge/VISUALBASIC-6-blue.svg)](https://shields.io/)
 
-
-
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+[![Generic badge](https://img.shields.io/badge/ASSEMBLY-NASM-blue.svg)](https://shields.io/)
 
 <br>
 <h3>3. Databases</h3>

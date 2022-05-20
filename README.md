@@ -26,6 +26,11 @@ I have knowledge of software engineering techniques and experience, at different
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+<p>I have a good time of experience with these OS systems, suficietly to make more advanced tasks with its, the Windows in comomly use around my life and actualy with my work. The Linux is my main system and</p>
+<p>PS: I love terminal</p>
+
+<hr>
+
 <br>
 <h3>2. Languages, IDEs and Frameworks</h3>
 <br>
@@ -35,6 +40,7 @@ I have knowledge of software engineering techniques and experience, at different
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,6 +60,8 @@ I have knowledge of software engineering techniques and experience, at different
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 [![Generic badge](https://img.shields.io/badge/ASSEMBLY-NASM-blue.svg)](https://shields.io/)
 
+<hr>
+
 <br>
 <h3>3. Databases</h3>
 <br>
@@ -63,6 +71,7 @@ I have knowledge of software engineering techniques and experience, at different
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<hr>
 
 <br>
 <h3>4.Other Tools</h3>

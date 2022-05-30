@@ -107,7 +107,7 @@ I have knowledge of software engineering techniques and experience, at different
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<p>I have experience in these databases in the use of projects at the university and also at work, with PostgreSQL and SQL being the databases with which I had the most contact. The use of SQL Server has been constant.</p>
+<p>I have experience in these databases in the use of projects at the university and also at work, with PostgreSQL and SQL Server being the databases with which I had the most contact. The use of SQL Server has been constant.</p>
 
 <hr>
 

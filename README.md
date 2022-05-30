@@ -26,7 +26,7 @@ I have knowledge of software engineering techniques and experience, at different
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<p>I have a good time of experience with these OS systems, suficietly to make more advanced tasks with its, the Windows in comomly use around my life and actualy with my work. Linux is my main system and where I have the most knowledge, having tried many distributions</p>
+<p>I have a good time of experience with these OS systems, suficietly to make more advanced tasks with its, the Windows in comomly use around my life and actualy with my work. Linux is my main system and where I have the most knowledge, having tried many distributions.</p>
 <p>PS: I love terminal</p>
 
 <hr>

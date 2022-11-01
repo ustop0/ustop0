@@ -1,7 +1,7 @@
 <h3>👋 Hello! Welcome to my Github profile</h3><br>
 <h2>My name is Thiago Ianzer and my nickname is "ustop0"!</h2><br>
 
-- 👨🏻‍🎓 I’m currently completing my courses on Information Systems and Systems Analysis and Development, University Center IDEAU<br>
+- 👨🏻‍🎓 Graduated in Information Systems and Systems Analysis and Development, University Center IDEAU<br>
 - 👨🏻‍💻 I’m interested in Full Stack development<br>
 - 🇧🇷 From Brazil<br>
 

@@ -16,7 +16,7 @@
 <br>
 <br>
 <h2>Technologies and Skills</h2>
-I have knowledge of software engineering techniques and experience, at different levels, in a series of technologies acquired in academic, personal and work projects.
+I have knowledge of software engineering techniques and experience, at different levels, in a series of technologies acquired in academic, personal and work projects, seeking to become a generalist and independent professional when it comes to project management and software development, although I like areas that involve Back-end and low level more.
 
 [comment]: <https://github.com/Ileriayo/markdown-badges> 
 <br>
@@ -73,8 +73,11 @@ I have knowledge of software engineering techniques and experience, at different
 
 [![Generic badge](https://img.shields.io/badge/VISUALBASIC-6-blue.svg)](https://shields.io/)
 
-<p>VB6, in conjunction with SQL Server, is used in the company I currently work for. I work in the development sector and my main role is to maintain and develop new features for a legacy system that works in meat processing companies.</p>
-<p>Despite the simplicity of the language, the great demand for customizations, customer support and the size and lack of documentation of the system, and database, make the work challenging.</p>
+<p>VB6, together with SQL Server, is used in the company where I currently work. I work in the development sector and my main role is to maintain and develop new functionalities for a legacy system that works in meat processing companies, providing support to customers in resolving bugs and complying with industry regulations. </p>
+<p>I have already implemented integrations with REST APIs, integration with functionalities involving tax documents, credit card machines, generation of invoices, generation of tax documents, reports, product labels, inventory management and movements for specific functionalities to meet customers' business rules. </p>
+<p>Developed documentation of the internal framework used by the company that covers both the Front-end and Back-end of the system</p>
+<p>I can say that it already extracts a lot from a legacy language and systems, including several modern features and integrations with new technologies.</p>
+<p>Despite the simplicity of the language, the great demand for customizations, customer support and the size and lack of documentation of the system and database make the work challenging.</p>
 
 <br>
 
@@ -108,6 +111,7 @@ I have knowledge of software engineering techniques and experience, at different
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <p>I have experience in these databases in the use of projects at the university and also at work, with PostgreSQL and SQL Server being the databases with which I had the most contact. The use of SQL Server has been constant.</p>
+<p>I have a good level of general knowledge and familiarity with relational databases, my work experience dealing daily with an ERP system using Sql Server, developing queries for different types of reports, system functionalities, maintenance routines in client databases have familiarized me With the various features of relational databases such as functions, stored procedures, triggers, cursors, index optimization and structures that involve programming in databases (T-SQL), I also carried out integrations with other databases such as Oracle.</p>
 
 <hr>
 
@@ -121,6 +125,6 @@ I have knowledge of software engineering techniques and experience, at different
 <p>The contact with Apache took place through the development of web applications, which make it necessary to know the configurations of this server.
 The contact with Apache took place through the development of web applications, which make it necessary to know the configurations of this server.
 </p>
-<p>The practice in using Git came through personal projects and work, I was responsible for its implementation and management of the company's repositories.</p>
+<p>The practice in using Git came through personal projects and work, I was responsible for its implementation and management of the company's repositories using the Gitflow model.</p>
 
 <br> 

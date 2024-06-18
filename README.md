@@ -129,9 +129,3 @@ The contact with Apache took place through the development of web applications, 
 
 <br> 
 
-<h2>Projects</h2>
-<br>
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ustop0&repo=TCC&bg_color=000&border_color=white&show_icons=true&icon_color=3deb34&title_color=ffffff&text_color=FFF)](https://github.com/ustop0/TCC)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ustop0&repo=MyUniversityProjects&bg_color=000&border_color=white&show_icons=true&icon_color=3deb34&title_color=ffffff&text_color=FFF)](https://github.com/ustop0/MyUniversityProjects)
-
-
